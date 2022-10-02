@@ -9,3 +9,5 @@ This script take an image as a command line argument. You'll need Python 3+ inst
 ```
 $ python detect-objects.py images/objects_1.pbm
 ```
+
+To visualizate the .bmp images you should use a image editor software as GIMP

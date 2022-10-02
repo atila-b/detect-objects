@@ -10,4 +10,4 @@ This script take an image as a command line argument. You'll need Python 3+ inst
 $ python detect-objects.py images/objects_1.pbm
 ```
 
-To visualizate the PBM images you should use an image editor software as GIMP or an online PBM viewer as [link](https://kylepaulsen.com/stuff/NetpbmViewer/)
+To visualizate the PBM images you should use an image editor software as GIMP or an online PBM viewer as [NetPBM Viewer](https://kylepaulsen.com/stuff/NetpbmViewer/)

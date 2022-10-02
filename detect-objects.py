@@ -202,9 +202,11 @@ count_objects = 0
 object_has_holes = False
 count_objects_with_holes = 0
 
+print("Applying Region Fill on image...")
 # Applying Region Fill
 f_holes_filled = region_fill(height, width, color)
 
+print("Applying Flood Fill on image...")
 # Applying Flood Fill
 for i in range(height):
   for j in range(width):
